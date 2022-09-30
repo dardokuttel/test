@@ -1,5 +1,5 @@
 package fghdert;
 
 public class sg {
-//okokokokdfghsrtdf
+//okokokokdfghsrtdf otro
 }
